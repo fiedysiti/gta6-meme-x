@@ -10,6 +10,11 @@
 // Outside the grader's container, MAKEFUN_BOT_DIR and MAKEFUN_OUTPUT_DIR stand in for /bot and /output:
 //   mkdir -p out && MAKEFUN_BOT_DIR=. MAKEFUN_OUTPUT_DIR=out node main.ts
 
+// Entry note (gta6-meme-x-01, "MISSION PASSED: Menunggu 13 Tahun"): the
+// post on X is the entry, and this program only carries its address to the
+// gate. POST.json at the repo root holds the post's address; the gate reads
+// the post itself from X, so nothing written here is judged.
+
 import { copyFileSync, mkdirSync } from 'node:fs';
 import { join } from 'node:path';
 
