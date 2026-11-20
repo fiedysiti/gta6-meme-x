@@ -21,6 +21,15 @@ tomorrow morning anyway.
 - Post text: the reward line ("GTA 6, 0 jam tidur, besok tetap masuk kerja"),
   the @makefunai tag, the bounty link and the entrant's play code
 
+## Verification (made 21 Nov 2026, in the recorded session)
+
+- File: `gta6-meme-final.jpg` — 1600×1600, 570 KB
+- Base scene AI-generated in-session; ghost = real make.fun press-kit mark
+  (`mark-1024.png`), composited mid-street with a contact shadow; text set
+  with PIL (DejaVu Sans Bold) so spelling is exact
+- Frames checked: "MISSION PASSED" + "Menunggu 13 Tahun" fully legible, ghost
+  recognisable at 480 px shrink (~108 px)
+
 ## The post
 
 `POST.json` at the repository root names the public X post. The post was made
